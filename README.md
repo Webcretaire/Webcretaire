@@ -4,7 +4,7 @@
 
 🎓 Former student at INSA (Lyon, France)
 
-🖥 I worked on several web projects with Java, Symfony or native PHP in backend, and vanilla JS, jQuery or Vue.JS in frontend. 
+🖥 I worked on several web projects with Java, Symfony or native PHP in backend, and vanilla JS, jQuery or Vue.JS in frontend
 
 🌍 More infos on my [website](https://julien-emmanuel.com/)
 
